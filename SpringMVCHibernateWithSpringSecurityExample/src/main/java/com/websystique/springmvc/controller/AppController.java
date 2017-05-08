@@ -237,6 +237,9 @@ public class AppController {
 	    final Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
 	    return authenticationTrustResolver.isAnonymous(authentication);
 	}
-
+pubilc void display(){
+	System.out.println("display method");
+	
+}
 
 }
