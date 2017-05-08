@@ -240,6 +240,7 @@ public class AppController {
 pubilc void display(){
 	System.out.println("display method");
 	System.out.println("display method");
+	System.out.println("xxxxxx");
 	
 }
 
