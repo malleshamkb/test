@@ -242,4 +242,7 @@ pubilc void display(){
 	
 }
 
+public void display1(){
+}
+
 }
